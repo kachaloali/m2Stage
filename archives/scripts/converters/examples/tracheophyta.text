@@ -1,0 +1,100 @@
+>sp|Q6V4H0|10HGO_CATRO 8-hydroxygeraniol dehydrogenase OS=Catharanthus roseus GN=10HGO PE=1 SV=1
+1.1.1.324 	1.6E-232     	1 	T
+1.1.1.195 	1.4E-154     	0.97 	T
+1.1.1.1 	2.5E-6     	0 	F
+1.1.1.9 	4.5E-1     	0 	F
+1.1.1.26 	9.1E-1     	0 	F
+
+>sp|P19084|11S3_HELAN 11S globulin seed storage protein G3 OS=Helianthus annuus GN=HAG3 PE=3 SV=1
+3.4.24.14 	4.3E-1     	0 	F 	(fragment)
+
+>sp|Q05349|12KD_FRAAN Auxin-repressed 12.5 kDa protein OS=Fragaria ananassa PE=2 SV=1
+3.4.24.68 	5.8E-1     	0 	F 	(fragment)
+
+>sp|P48347|14310_ARATH 14-3-3-like protein GF14 epsilon OS=Arabidopsis thaliana GN=GRF10 PE=1 SV=1
+1.14.19.6 	2.5E-2     	0 	F 	(fragment)
+2.7.7.48 	1.4E-1     	0 	F 	(fragment)
+1.1.1.219 	5.4E-1     	0 	F 	(fragment)
+
+>sp|Q9C5W6|14312_ARATH 14-3-3-like protein GF14 iota OS=Arabidopsis thaliana GN=GRF12 PE=2 SV=1
+2.7.7.48 	4.9E-1     	0 	F 	(fragment)
+
+>sp|Q84J55|14331_ORYSJ 14-3-3-like protein GF14-A OS=Oryza sativa subsp. japonica GN=GF14A PE=2 SV=1
+6.4.1.1 	9.7E-1     	0 	F 	(fragment)
+
+>sp|P93208|14332_SOLLC 14-3-3 protein 2 OS=Solanum lycopersicum GN=TFT2 PE=3 SV=2
+3.4.21.99 	3.8E-1     	0 	F 	(fragment)
+
+>sp|Q6ZKC0|14333_ORYSJ 14-3-3-like protein GF14-C OS=Oryza sativa subsp. japonica GN=GF14C PE=1 SV=1
+1.1.1.219 	6E-1     	0 	F 	(fragment)
+
+>sp|P93210|14335_SOLLC 14-3-3 protein 5 OS=Solanum lycopersicum GN=TFT5 PE=3 SV=1
+5.4.99.39 	7.5E-1     	0 	F 	(fragment)
+5.4.99.40 	7.5E-1     	0 	F 	(fragment)
+
+>sp|Q96452|1433C_SOYBN 14-3-3-like protein C OS=Glycine max GN=GF14C PE=2 SV=1
+6.6.1.2 	3.8E-1     	0 	F 	(fragment)
+2.7.7.48 	4.2E-1     	0 	F 	(fragment)
+
+>sp|Q96453|1433D_SOYBN 14-3-3-like protein D OS=Glycine max GN=GF14D PE=2 SV=1
+6.6.1.2 	2.3E-1     	0 	F 	(fragment)
+2.7.7.48 	4E-1     	0 	F 	(fragment)
+4.2.2.3 	5.3E-1     	0 	F 	(fragment)
+
+>sp|P14009|14KD_DAUCA 14 kDa proline-rich protein DC2.15 OS=Daucus carota PE=2 SV=1
+2.1.1.56 	5E-1     	0 	F 	(fragment)
+2.7.7.50 	5E-1     	0 	F 	(fragment)
+
+>sp|Q9LQ10|1A110_ARATH Probable aminotransferase ACS10 OS=Arabidopsis thaliana GN=ACS10 PE=1 SV=1
+4.4.1.14 	7E-86     	0.1 	F
+
+>sp|Q8GYY0|1A112_ARATH Probable aminotransferase ACS12 OS=Arabidopsis thaliana GN=ACS12 PE=2 SV=2
+4.4.1.14 	7.5E-87     	0.1 	F
+
+>sp|P23599|1A11_CUCMA 1-aminocyclopropane-1-carboxylate synthase CMW33 OS=Cucurbita maxima GN=ACS1 PE=2 SV=1
+4.4.1.14 	0E0     	1 	T
+2.7.1.12 	3.8E-1     	0 	F
+
+>sp|Q9MB95|1A11_PRUMU 1-aminocyclopropane-1-carboxylate synthase 1 OS=Prunus mume GN=ACS1 PE=2 SV=1
+4.4.1.14 	0E0     	1 	T
+4.2.1.145 	6.1E-1     	0 	F
+
+>sp|Q00379|1A12_CUCPE 1-aminocyclopropane-1-carboxylate synthase 2 OS=Cucurbita pepo GN=ACS2 PE=2 SV=1
+4.4.1.14 	0E0     	1 	T
+
+>sp|Q42881|1A13_SOLLC 1-aminocyclopropane-1-carboxylate synthase 3 OS=Solanum lycopersicum GN=ACS3 PE=1 SV=1
+4.4.1.14 	0E0     	1 	T
+1.14.99.37 	4.1E-1     	0 	F
+2.7.7.7 	6.2E-1     	0 	F 	(fragment)
+
+>sp|Q43309|1A14_ARATH 1-aminocyclopropane-1-carboxylate synthase 4 OS=Arabidopsis thaliana GN=ACS4 PE=1 SV=1
+4.4.1.14 	0E0     	0.99 	T
+
+>sp|Q9T065|1A18_ARATH 1-aminocyclopropane-1-carboxylate synthase 8 OS=Arabidopsis thaliana GN=ACS8 PE=1 SV=1
+4.4.1.14 	0E0     	1 	T
+
+>sp|Q84PN8|1FEH1_WHEAT Fructan 1-exohydrolase w1 OS=Triticum aestivum GN=1-FEHw1 PE=1 SV=1
+3.2.1.153 	0E0     	1 	T
+
+>sp|P48391|2PS_GERHY 2-pyrone synthase OS=Gerbera hybrida GN=2PS PE=1 SV=2
+2.3.1.74 	7.4E-153     	0.49 	F
+
+>sp|P15459|2SS3_ARATH 2S seed storage protein 3 OS=Arabidopsis thaliana GN=AT2S3 PE=1 SV=1
+4.2.3.28 	5.9E-1     	0 	F 	(fragment)
+
+>sp|P80353|2SS4_CAPMA Sweet protein mabinlin-4 OS=Capparis masaikai PE=1 SV=1
+3.4.24.70 	9.5E-1     	0 	F 	(fragment)
+
+>sp|P24565|2SSI_BRANA Napin-1A OS=Brassica napus PE=1 SV=1
+2.7.7.48 	2.5E-3     	0 	F 	(fragment)
+
+>sp|Q39371|3AP1_BRAOL Floral homeotic protein APETALA 1 OS=Brassica oleracea GN=AP1 PE=2 SV=1
+3.1.4.35 	1.2E-1     	0 	F 	(fragment)
+3.1.4.53 	1.2E-1     	0 	F 	(fragment)
+
+>sp|Q9LR73|3AT2_ARATH Coumaroyl-CoA:anthocyanidin 3-O-glucoside-6&apos;&apos;-O-coumaroyltransferase 2 OS=Arabidopsis thaliana GN=3AT2 PE=1 SV=1
+2.3.1.171 	2.1E-40     	0 	F
+2.3.1.172 	1E-34     	0 	F
+2.3.1.153 	1.8E-29     	0 	F
+2.3.1.64 	2.2E-16     	0 	F
+

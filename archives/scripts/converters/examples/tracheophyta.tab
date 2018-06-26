@@ -1,0 +1,70 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+Q43495	108_SOLLC	reviewed	Protein 108		Solanum lycopersicum (Tomato) (Lycopersicon esculentum)	102
+Q6V4H0	10HGO_CATRO	reviewed	8-hydroxygeraniol dehydrogenase (Cr10HGO) (EC 1.1.1.324)	10HGO	Catharanthus roseus (Madagascar periwinkle) (Vinca rosea)	360
+P19084	11S3_HELAN	reviewed	11S globulin seed storage protein G3 (Helianthinin-G3) [Cleaved into: 11S globulin seed storage protein G3 acidic chain; 11S globulin seed storage protein G3 basic chain]	HAG3	Helianthus annuus (Common sunflower)	493
+Q05349	12KD_FRAAN	reviewed	Auxin-repressed 12.5 kDa protein		Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana)	111
+P48347	14310_ARATH	reviewed	14-3-3-like protein GF14 epsilon (General regulatory factor 10)	GRF10 At1g22300 T16E15.8	Arabidopsis thaliana (Mouse-ear cress)	254
+Q9C5W6	14312_ARATH	reviewed	14-3-3-like protein GF14 iota (General regulatory factor 12)	GRF12 At1g26480 T1K7.15	Arabidopsis thaliana (Mouse-ear cress)	268
+P42643	14331_ARATH	reviewed	14-3-3-like protein GF14 chi (General regulatory factor 1)	GRF1 At4g09000 F23J3.30	Arabidopsis thaliana (Mouse-ear cress)	267
+Q84J55	14331_ORYSJ	reviewed	14-3-3-like protein GF14-A (G-box factor 14-3-3 homolog A)	GF14A Os08g0480800 LOC_Os08g37490 OJ1113_A10.40 OSJNBb0092C08.10	Oryza sativa subsp. japonica (Rice)	264
+P93206	14331_SOLLC	reviewed	14-3-3 protein 1	TFT1	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)	249
+Q41418	14331_SOLTU	reviewed	14-3-3-like protein		Solanum tuberosum (Potato)	259
+Q01525	14332_ARATH	reviewed	14-3-3-like protein GF14 omega (General regulatory factor 2)	GRF2 GF14 At1g78300 F3F9.16	Arabidopsis thaliana (Mouse-ear cress)	259
+P85939	14332_PSEMZ	reviewed	14-3-3-like protein 2 (Fragments)		Pseudotsuga menziesii (Douglas-fir) (Abies menziesii)	66
+P93208	14332_SOLLC	reviewed	14-3-3 protein 2	TFT2	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)	254
+Q6ZKC0	14333_ORYSJ	reviewed	14-3-3-like protein GF14-C (G-box factor 14-3-3 homolog C)	GF14C Os08g0430500 LOC_Os08g33370 OJ1124_B05.7	Oryza sativa subsp. japonica (Rice)	256
+P85942	14334_PSEMZ	reviewed	14-3-3-like protein 4 (Fragments)		Pseudotsuga menziesii (Douglas-fir) (Abies menziesii)	28
+P93210	14335_SOLLC	reviewed	14-3-3 protein 5	TFT5	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)	255
+P29305	1433A_HORVU	reviewed	14-3-3-like protein A (14-3-3A)		Hordeum vulgare (Barley)	262
+Q43470	1433B_HORVU	reviewed	14-3-3-like protein B (14-3-3B)		Hordeum vulgare (Barley)	262
+Q96452	1433C_SOYBN	reviewed	14-3-3-like protein C (SGF14C)	GF14C	Glycine max (Soybean) (Glycine hispida)	258
+Q96453	1433D_SOYBN	reviewed	14-3-3-like protein D (SGF14D)	GF14D	Glycine max (Soybean) (Glycine hispida)	261
+O65352	1433_HELAN	reviewed	14-3-3-like protein		Helianthus annuus (Common sunflower)	259
+Q41246	1433_TOBAC	reviewed	14-3-3-like protein		Nicotiana tabacum (Common tobacco)	251
+P14009	14KD_DAUCA	reviewed	14 kDa proline-rich protein DC2.15		Daucus carota (Wild carrot)	137
+Q9LQ10	1A110_ARATH	reviewed	Probable aminotransferase ACS10 (EC 2.6.1.-)	ACS10 At1g62960 F16P17.11	Arabidopsis thaliana (Mouse-ear cress)	557
+Q8GYY0	1A112_ARATH	reviewed	Probable aminotransferase ACS12 (EC 2.6.1.-)	ACS12 At5g51690 K10D11.3 MIO24.18	Arabidopsis thaliana (Mouse-ear cress)	495
+P23599	1A11_CUCMA	reviewed	1-aminocyclopropane-1-carboxylate synthase CMW33 (ACC synthase) (EC 4.4.1.14) (S-adenosyl-L-methionine methylthioadenosine-lyase)	ACS1 ACCW	Cucurbita maxima (Pumpkin) (Winter squash)	493
+Q9MB95	1A11_PRUMU	reviewed	1-aminocyclopropane-1-carboxylate synthase 1 (ACC synthase 1) (EC 4.4.1.14) (S-adenosyl-L-methionine methylthioadenosine-lyase)	ACS1	Prunus mume (Japanese apricot) (Armeniaca mume)	492
+Q00379	1A12_CUCPE	reviewed	1-aminocyclopropane-1-carboxylate synthase 2 (ACC synthase 2) (EC 4.4.1.14) (S-adenosyl-L-methionine methylthioadenosine-lyase)	ACS2 ACC1B	Cucurbita pepo (Vegetable marrow) (Summer squash)	494
+Q42881	1A13_SOLLC	reviewed	1-aminocyclopropane-1-carboxylate synthase 3 (ACC synthase 3) (EC 4.4.1.14) (Le-ACS3) (ACS-3) (S-adenosyl-L-methionine methylthioadenosine-lyase 3)	ACS3	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)	469
+Q43309	1A14_ARATH	reviewed	1-aminocyclopropane-1-carboxylate synthase 4 (ACC synthase 4) (EC 4.4.1.14) (S-adenosyl-L-methionine methylthioadenosine-lyase 4)	ACS4 ACC4 At2g22810 T20K9.2	Arabidopsis thaliana (Mouse-ear cress)	474
+Q9T065	1A18_ARATH	reviewed	1-aminocyclopropane-1-carboxylate synthase 8 (ACC synthase 8) (EC 4.4.1.14) (S-adenosyl-L-methionine methylthioadenosine-lyase 8)	ACS8 At4g37770 T28I19.50	Arabidopsis thaliana (Mouse-ear cress)	469
+Q84PN8	1FEH1_WHEAT	reviewed	Fructan 1-exohydrolase w1 (EC 3.2.1.153)	1-FEHw1	Triticum aestivum (Wheat)	597
+P48391	2PS_GERHY	reviewed	2-pyrone synthase (2-PS) (EC 2.3.1.-) (G2ps1)	2PS CHS2	Gerbera hybrida (Daisy)	402
+P04403	2SS1_BEREX	reviewed	2S sulfur-rich seed storage protein 1 (allergen Ber e 1) [Cleaved into: 2S sulfur-rich seed storage protein small chain 1 (2S albumin 1 small subunit); 2S sulfur-rich seed storage protein large chain 1B (2S albumin 1 large subunit)]	BE2S1	Bertholletia excelsa (Brazil nut)	146
+P01090	2SS2_BRANA	reviewed	Napin-2 (1.7S seed storage protein) [Cleaved into: Napin-2 small chain; Napin-2 large chain]		Brassica napus (Rape)	178
+P30233	2SS2_CAPMA	reviewed	Sweet protein mabinlin-2 (Mabinlin II) (MAB II) [Cleaved into: Sweet protein mabinlin-2 chain A; Sweet protein mabinlin-2 chain B]		Capparis masaikai (Mabinlang)	155
+P15459	2SS3_ARATH	reviewed	2S seed storage protein 3 (2S albumin storage protein) (NWMU2-2S albumin 3) [Cleaved into: 2S seed storage protein 3 small subunit; 2S seed storage protein 3 large subunit]	AT2S3 At4g27160 T24A18.110	Arabidopsis thaliana (Mouse-ear cress)	164
+P17333	2SS4_BRANA	reviewed	Napin (1.7S seed storage protein) [Cleaved into: Napin small chain; Napin large chain]	NAP1	Brassica napus (Rape)	180
+P80353	2SS4_CAPMA	reviewed	Sweet protein mabinlin-4 (Mabinlin IV) (MAB IV) [Cleaved into: Sweet protein mabinlin-4 chain A; Sweet protein mabinlin-4 chain B]		Capparis masaikai (Mabinlang)	100
+Q9FH31	2SS5_ARATH	reviewed	2S seed storage protein 5 (Seed storage albumin 5) [Cleaved into: 2S seed storage protein 5 small subunit; 2S seed storage protein 5 large subunit (2S albumin isoform 5 large subunit)]	SESA5 At5g54740 K5F14.10	Arabidopsis thaliana (Mouse-ear cress)	165
+P09893	2SSE_BRANA	reviewed	Napin embryo-specific (1.7S seed storage protein) [Cleaved into: Napin embryo-specific small chain; Napin embryo-specific large chain]		Brassica napus (Rape)	186
+P24565	2SSI_BRANA	reviewed	Napin-1A (Napin BnIa) [Cleaved into: Napin-1A small chain; Napin-1A large chain]		Brassica napus (Rape)	110
+P86783	2SS_TAROF	reviewed	2S albumin (To-A1) [Cleaved into: 2S albumin small chain; 2S albumin large chain] (Fragments)		Taraxacum officinale (Common dandelion) (Leontodon taraxacum)	44
+Q39371	3AP1_BRAOL	reviewed	Floral homeotic protein APETALA 1 (BoAP1) (Agamous-like MADS-box protein AP1)	AP1	Brassica oleracea (Wild cabbage)	256
+Q9LR73	3AT2_ARATH	reviewed	Coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 2 (EC 2.3.1.-)	3AT2 At1g03495 F21B7.12	Arabidopsis thaliana (Mouse-ear cress)	465
+C7ASI9	3CAR1_PICGL	reviewed	Carene synthase, chloroplastic (PgTPS-3car) (EC 4.2.3.107) ((+)-car-3-ene synthase) (3-carene cyclase)	3CAR PGB02	Picea glauca (White spruce) (Pinus glauca)	627
+F1CKI8	3CAR2_PICSI	reviewed	Carene synthase 2, chloroplastic (PsTPS-3car2) (EC 4.2.3.107) ((+)-car-3-ene synthase 2) (3-carene cyclase 2)	TPS-3car2	Picea sitchensis (Sitka spruce) (Pinus sitchensis)	627
+F1CKI9	3CAR3_PICSI	reviewed	Carene synthase 3, chloroplastic (PsTPS-3car3) (EC 4.2.3.107) ((+)-car-3-ene synthase 3) (3-carene cyclase 3)	TPS-3car3	Picea sitchensis (Sitka spruce) (Pinus sitchensis)	627
+P14912	4CL1_PETCR	reviewed	4-coumarate--CoA ligase 1 (4CL 1) (EC 6.2.1.12) (4-coumaroyl-CoA synthase 1)	4CL1 4CL-1	Petroselinum crispum (Parsley) (Petroselinum hortense)	544
+P31684	4CL1_SOLTU	reviewed	4-coumarate--CoA ligase 1 (4CL 1) (EC 6.2.1.12) (4-coumaroyl-CoA synthase 1)	4CL1 4CL-1	Solanum tuberosum (Potato)	545
+Q9S725	4CL2_ARATH	reviewed	4-coumarate--CoA ligase 2 (4CL 2) (EC 6.2.1.12) (4-coumarate--CoA ligase isoform 2) (At4CL2) (4-coumaroyl-CoA synthase 2)	4CL2 At3g21240 MXL8.10	Arabidopsis thaliana (Mouse-ear cress)	556
+Q42982	4CL2_ORYSJ	reviewed	Probable 4-coumarate--CoA ligase 2 (4CL 2) (Os4CL2) (EC 6.2.1.12) (4-coumaroyl-CoA synthase 2)	4CL2 4CL.2 Os02g0697400 LOC_Os02g46970 P0459B01.4-1 P0666E12.12-1	Oryza sativa subsp. japonica (Rice)	569
+Q9S777	4CL3_ARATH	reviewed	4-coumarate--CoA ligase 3 (4CL 3) (EC 6.2.1.12) (4-coumarate--CoA ligase isoform 3) (At4CL3) (4-coumaroyl-CoA synthase 3)	4CL3 At1g65060 F16G16.6	Arabidopsis thaliana (Mouse-ear cress)	561
+Q9LU36	4CL4_ARATH	reviewed	4-coumarate--CoA ligase 4 (4CL 4) (EC 6.2.1.12) (4-coumarate--CoA ligase isoform 5) (At4CL5) (4-coumaroyl-CoA synthase 4)	4CL4 At3g21230 MXL8_9	Arabidopsis thaliana (Mouse-ear cress)	570
+Q69RG7	4CLL7_ORYSJ	reviewed	4-coumarate--CoA ligase-like 7 (EC 6.2.1.-)	4CLL7 Os07g0280200 LOC_Os07g17970 P0474B11.33	Oryza sativa subsp. japonica (Rice)	558
+O24540	4CL_VANPL	reviewed	4-coumarate--CoA ligase (4CL) (EC 6.2.1.12) (4-coumaroyl-CoA synthase)	4CL	Vanilla planifolia (Vanilla)	553
+Q84LF2	5EAS3_NICAT	reviewed	5-epi-aristolochene synthase 3 (NaEAS12) (EC 4.2.3.61)		Nicotiana attenuata (Coyote tobacco)	548
+Q9SRE0	5FCLL_ARATH	reviewed	5-formyltetrahydrofolate cyclo-ligase-like protein COG0212 (Protein CLUSTERS OF ORTHOLOGOUS GROUP 212)	COG0212 At1g76730 F28O16.10	Arabidopsis thaliana (Mouse-ear cress)	354
+Q8L539	5FCL_ARATH	reviewed	5-formyltetrahydrofolate cyclo-ligase, mitochondrial (5-FCL) (EC 6.3.3.2)	5FCL At5g13050 T19L5.10	Arabidopsis thaliana (Mouse-ear cress)	277
+P26690	6DCS_SOYBN	reviewed	NAD(P)H-dependent 6'-deoxychalcone synthase (EC 2.3.1.170)		Glycine max (Soybean) (Glycine hispida)	315
+Q70XE6	6FEH_BETVU	reviewed	Fructan 6-exohydrolase (EC 3.2.1.154)	6-FEH	Beta vulgaris (Sugar beet)	606
+Q2UXF7	6FEH_WHEAT	reviewed	Fructan 6-exohydrolase (EC 3.2.1.154)	6-FEH	Triticum aestivum (Wheat)	598
+Q94KU2	6PGD2_SPIOL	reviewed	6-phosphogluconate dehydrogenase, decarboxylating 2, chloroplastic (EC 1.1.1.44)	pgdP	Spinacia oleracea (Spinach)	537
+A2XI04	6PGL1_ORYSI	reviewed	Probable 6-phosphogluconolactonase 1 (6PGL 1) (EC 3.1.1.31)	OsI_011697	Oryza sativa subsp. indica (Rice)	296
+A2YNH4	6PGL2_ORYSI	reviewed	Probable 6-phosphogluconolactonase 2 (6PGL 2) (EC 3.1.1.31)	OsI_025867	Oryza sativa subsp. indica (Rice)	280
+A2YXS5	6PGL3_ORYSI	reviewed	Probable 6-phosphogluconolactonase 3, chloroplastic (6PGL 3) (EC 3.1.1.31)	OsI_30141	Oryza sativa subsp. indica (Rice)	327
+A2Z3C4	6PGL4_ORYSI	reviewed	Probable 6-phosphogluconolactonase 4, chloroplastic (6PGL 4) (EC 3.1.1.31)	OsI_031067	Oryza sativa subsp. indica (Rice)	324
+Q69NG5	6PGL4_ORYSJ	reviewed	Probable 6-phosphogluconolactonase 4, chloroplastic (6PGL 4) (EC 3.1.1.31)	Os09g0529100 LOC_Os09g35970 OJ1531_B07.11 OsJ_028924	Oryza sativa subsp. japonica (Rice)	324
+B3RFJ6	86A22_PETHY	reviewed	Cytochrome P450 86A22 (EC 1.14.13.204) (Long-chain acyl-CoA omega-monooxygenase)	CYP86A22	Petunia hybrida (Petunia)	553
