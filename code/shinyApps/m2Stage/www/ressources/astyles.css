@@ -1,0 +1,41 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+	background-image: url(../images/bg_2.png);
+	background: #e2e2e2 none repeat scroll 0 0;
+	left: 1%;
+	right:1%;
+	width:98%;
+	height:auto;
+	position:relative;
+	background-attachment:fixed;
+}
+
+.page-header{
+	margin-top: 0px;
+	color:#FFFFFF;
+	background-color:#8181F7;
+}
+
+#title{
+	height: auto;
+	font-size: 1.4em;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+}
+
+img { 
+	display: block;
+	margin-top: 1px;
+	margin-bottom: -2px;
+	width: 100%;
+	height: 100%; 
+}
+
+.main-header .logo {
+font-family: “Georgia”, Times, “Times New Roman”, serif;
+font-weight: bold;
+font-size: 24px;
+}
+
+
